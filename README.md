@@ -64,13 +64,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin feature/YourFeature`)
 5. Create a new Pull Request
-
-## License
-This project is licensed under the [Your License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Contact
-For questions or suggestions, feel free to contact [Your Name] via email at [your.email@example.com].
-
----
-
-Adjust the sections and details based on your specific project setup, dataset, and preferences. This README file provides a structured guide for users and contributors to understand, use, and contribute to your employee burnout prediction project based on Linear Regression.
